@@ -5,7 +5,7 @@ This software is a simple text based 2048 game made with python
 The purpose of this software was to allow me to learn how to use python in a basic way with variables, classes, different data structures like matrices, and 
 then implement those things into working software.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sjig2r48A1s)
 
 # Development Environment
 
